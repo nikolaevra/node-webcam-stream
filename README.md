@@ -1,3 +1,5 @@
+if you want to [stream to youtube or facebook live](https://www.digikey.com/en/maker/blogs/streaming-live-to-youtube-and-facebook-using-raspberry-pi-camera/969a7932d47d42a79ba72c81da4d9b66)
+
 trying to follow this tutorial: `http://weheart.digital/build-simple-live-streaming-solution/`
 
 ### How to setup computer: 
